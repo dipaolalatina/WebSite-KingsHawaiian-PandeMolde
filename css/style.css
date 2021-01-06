@@ -161,7 +161,7 @@ header{
 /* HERO BANNER */
 
 .home-hero-banner{
-    background-image: url('../assets/images/bg-banner.jpg');
+    background-image: url('../assets/images/bg-banner-v2.jpg');
     background-size: cover;
     background-repeat: no-repeat;
 }
@@ -259,7 +259,7 @@ header{
 
 @media (min-width:1080px) {
     .receta-wrap{
-        background-image: url(../assets/images/bg-receta.jpg);
+        background-image: url(../assets/images/bg-receta-v2.jpg);
         min-height: 800px;
         padding: 3em 0em;
     }
