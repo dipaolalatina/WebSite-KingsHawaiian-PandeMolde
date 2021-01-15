@@ -118,9 +118,18 @@ header{
     width: 8em;
 }
 
+.link__logo-retail{
+    margin-top: .5em;
+    height: 30px;
+}
+
+.mobile-link__logo-retal{
+    width: 100%;
+}
+
 @media (min-width:320px) {
     .logo-top{
-        width: 6em;
+        width: 5em;
     }
 }
 
@@ -129,12 +138,18 @@ header{
         width: 10em;
     }
 
+    .link__logo-retail{
+        height: 42px;
+    }
+
     .txt-nav-top{
         font-size: 1.3em;
     }
 }
 
-.logos-retal{
+
+
+/* .logos-retal{
     width: 75%;
     max-width: 499px;
 }
@@ -155,7 +170,7 @@ header{
     .logos-retal{
         width: 100%;
     }
-}
+} */
 
 
 /* HERO BANNER */
